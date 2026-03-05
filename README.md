@@ -35,6 +35,3 @@ This website serves as the digital front for GIFT Autonomous, providing prospect
 - **Interactive Elements:** Image sliders, hover effects, and animated sections.
 - **Structured Layout:** Easy navigation with a header, hero section, about, courses, faculty, testimonials, and footer.
 
-## 📁 Project Structure
-
-The main files and directories are organized as follows:
